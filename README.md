@@ -33,3 +33,35 @@ cd real-time-tracking-app
 
 2️⃣ Install Dependencies
 npm install
+
+3️⃣ Run the Server
+npm start
+
+4️⃣ Open in Browser
+
+
+🖥️ Technologies Used
+Node.js – Backend server
+Express.js – Web framework
+Socket.io – Real-time communication
+Leaflet.js – Interactive maps
+EJS – Template engine
+HTML, CSS, JavaScript – Frontend
+
+📸 Screenshots
+
+
+📌 How It Works
+1️⃣ User opens the website
+2️⃣ Their location is shared automatically (if permission is granted)
+3️⃣ Users' locations update in real time on the map
+4️⃣ If a user disconnects, their marker disappears
+
+
+💡 Future Improvements
+📍 Add user names with markers
+🌍 Implement custom map styles
+📱 Improve mobile UI/UX
+🛠️ Add authentication for privacy
+
+🔗 Live Demo: 
